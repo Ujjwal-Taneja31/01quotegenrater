@@ -13,4 +13,6 @@ async function  getquote(url) {
 function tweet(){
   window.open('https://twitter.com/intent/tweet?text=' + quote.innerHTML + '---by ' + author.innerHTML,"Tweet Window","width=600, height=300");
 }
-getquote(api_url);
+getquote(api_url); 
+
+//This code gerator i my first chaleenge of 30days 30 projects

@@ -16,3 +16,4 @@ function tweet(){
 getquote(api_url); 
 
 //This code gerator i my first chaleenge of 30days 30 projects
+// an bug has been resolved
